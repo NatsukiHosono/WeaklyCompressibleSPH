@@ -17,12 +17,7 @@
 #include "kernel.h"
 #include "EoS.h"
 #include "class.h"
-//=============
-//#include "init/Poiseuille.h"
-//#include "init/Couette.h"
-//#include "init/Test.h"
 #include "init/Dam2.h"
-//=============
 #include "force.h"
 #include "io.h"
 #include "integral.h"
